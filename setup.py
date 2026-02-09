@@ -13,7 +13,7 @@ setup(
     author_email='example@example.com',    
     license='MIT',
     packages=['merlonline'],
-    install_requires=["merl"],
+    install_requires=["merl", "duckai", "ddgs"],
     long_description=long_description,
     long_description_content_type='text/markdown',
 
